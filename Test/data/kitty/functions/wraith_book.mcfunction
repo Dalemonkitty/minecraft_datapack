@@ -1,0 +1,2 @@
+clear @s
+execute at @s run give @s written_book{pages:['["",{"text":"You choose the ","bold":true},{"text":"Wraith","bold":true,"color":"red"},{"text":"!","color":"reset","bold":true},{"text":"\\n\\nYou have the ability to phase through marked walls.\\ncooldown: ...\\nweakness: ...\\n\\n","color":"reset"},{"text":"you have the advantage to never get footstep evidence.","italic":true},{"text":" \\n\\n... more text","color":"reset"}]'],title:"The wraith",author:""}
